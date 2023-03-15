@@ -9,4 +9,6 @@ In the Terminal, use this on Debian-based/Ubuntu Linux distros
 
 git clone https://github.com/suddenflamingo1/automatic_facetimehd_install
 
-and run "bash facetimehd_autoinstall.sh"
+Run "cd automatic_facetimehd_install"
+
+and finally, run "bash facetimehd_autoinstall.sh"
